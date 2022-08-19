@@ -54,8 +54,7 @@ vendor/bin/phpunit
 If you discover any security related issues, please email shea.lewis89@gmail.com directly instead of using the issue tracker.
 
 ## Credits
-- [Shea Lewis](https://github.com/kaidesu)
-- [All Contributors](../../contributors)
+- [Playbert Ronaldo](https://github.com/Playbert)
 
 ## License
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
