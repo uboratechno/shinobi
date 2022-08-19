@@ -1,5 +1,5 @@
 {
-    "name": "Playbert/shinobi",
+    "name": "playbert/shinobi",
     "description": "Laravel Roles and Permissions",
     "keywords": ["roles", "permissions", "auth", "laravel"],
     "license": "MIT",
