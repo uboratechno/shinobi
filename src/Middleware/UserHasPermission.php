@@ -1,8 +1,8 @@
 <?php
 
-namespace Caffeinated\Shinobi\Middleware;
+namespace Playbert\Shinobi\Middleware;
 
-use Caffeinated\Shinobi\Models\Role;
+use Playbert\Shinobi\Models\Role;
 use Closure;
 use Illuminate\Contracts\Auth\Guard;
 

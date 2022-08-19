@@ -1,6 +1,6 @@
 <?php
 
-namespace Caffeinated\Shinobi\Exceptions;
+namespace Playbert\Shinobi\Exceptions;
 
 use Exception;
 

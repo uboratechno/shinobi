@@ -1,11 +1,11 @@
 <?php
 
-namespace Caffeinated\Shinobi\Tests;
+namespace Playbert\Shinobi\Tests;
 
-use Caffeinated\Shinobi\Tests\User;
-use Caffeinated\Shinobi\Models\Role;
-use Caffeinated\Shinobi\Tests\TestCase;
-use Caffeinated\Shinobi\Models\Permission;
+use Playbert\Shinobi\Tests\User;
+use Playbert\Shinobi\Models\Role;
+use Playbert\Shinobi\Tests\TestCase;
+use Playbert\Shinobi\Models\Permission;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 
 class UserTest extends TestCase

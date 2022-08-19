@@ -1,10 +1,10 @@
 <?php
 
-namespace Caffeinated\Shinobi\Tactics;
+namespace Playbert\Shinobi\Tactics;
 
 use Illuminate\Support\Arr;
 use Illuminate\Database\Eloquent\Model;
-use Caffeinated\Shinobi\Facades\Shinobi;
+use Playbert\Shinobi\Facades\Shinobi;
 
 class RevokePermissionFrom
 {

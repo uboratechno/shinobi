@@ -1,6 +1,6 @@
 <?php
 
-namespace Caffeinated\Shinobi\Concerns;
+namespace Playbert\Shinobi\Concerns;
 
 trait HasRolesAndPermissions
 {
@@ -10,7 +10,7 @@ trait HasRolesAndPermissions
      * Run through the roles assigned to the permission and
      * checks if the user has any of them assigned.
      * 
-     * @param  \Caffeinated\Shinobi\Models\Permission  $permission
+     * @param  \Playbert\Shinobi\Models\Permission  $permission
      * @return boolean
      */
     protected function hasPermissionThroughRole($permission): bool

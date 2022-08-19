@@ -21,21 +21,21 @@
     },
     "autoload": {
         "psr-4": {
-            "Caffeinated\\Shinobi\\": "src/"
+            "Playbert\\Shinobi\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Caffeinated\\Shinobi\\Tests\\": "tests/"
+            "Playbert\\Shinobi\\Tests\\": "tests/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Caffeinated\\Shinobi\\ShinobiServiceProvider"
+                "Playbert\\Shinobi\\ShinobiServiceProvider"
             ],
             "aliases": {
-                "Shinobi": "Caffeinated\\Shinobi\\Facades\\Shinobi"
+                "Shinobi": "Playbert\\Shinobi\\Facades\\Shinobi"
             }
         }
     },

@@ -11,10 +11,10 @@ Kai
 
 ---
 
-# Caffeinated Shinobi
-[![Source](https://img.shields.io/badge/source-caffeinated/shinobi-blue.svg?style=flat-square)](https://github.com/Playbert/shinobi)
-[![Latest Stable Version](https://poser.pugx.org/caffeinated/shinobi/v/stable?format=flat-square)](https://packagist.org/packages/playbert/shinobi)
-[![Total Downloads](https://img.shields.io/packagist/dt/caffeinated/shinobi.svg?style=flat-square)](https://packagist.org/packages/playbert/shinobi)
+# Playbert Shinobi
+[![Source](https://img.shields.io/badge/source-Playbert/shinobi-blue.svg?style=flat-square)](https://github.com/Playbert/shinobi)
+[![Latest Stable Version](https://poser.pugx.org/Playbert/shinobi/v/stable?format=flat-square)](https://packagist.org/packages/playbert/shinobi)
+[![Total Downloads](https://img.shields.io/packagist/dt/Playbert/shinobi.svg?style=flat-square)](https://packagist.org/packages/playbert/shinobi)
 
 A simple and light-weight role-based permissions system for Laravel's Authorization Gate system. Originally developed for [FusionCMS](https://github.com/fusioncms/fusioncms), an open source content management system.
 
@@ -27,14 +27,14 @@ A simple and light-weight role-based permissions system for Laravel's Authorizat
 Simply install the package through Composer. From here the package will automatically register its service provider and `Shinobi` facade.
 
 ```
-composer require caffeinated/shinobi
+composer require playbert/shinobi
 ```
 
 ### Config
 To publish the config file, run the following:
 
 ```
-php artisan vendor:publish --provider="Caffeinated\Shinobi\ShinobiServiceProvider" --tag="config"
+php artisan vendor:publish --provider="Playbert\Shinobi\ShinobiServiceProvider" --tag="config"
 ```
 
 ## Changelog
