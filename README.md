@@ -12,11 +12,9 @@ Kai
 ---
 
 # Caffeinated Shinobi
-[![Source](https://img.shields.io/badge/source-caffeinated/shinobi-blue.svg?style=flat-square)](https://github.com/caffeinated/shinobi)
-[![Latest Stable Version](https://poser.pugx.org/caffeinated/shinobi/v/stable?format=flat-square)](https://packagist.org/packages/caffeinated/shinobi)
-[![License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://tldrlegal.com/license/mit-license)
-[![Total Downloads](https://img.shields.io/packagist/dt/caffeinated/shinobi.svg?style=flat-square)](https://packagist.org/packages/caffeinated/shinobi)
-[![Travis (.org)](https://img.shields.io/travis/caffeinated/shinobi.svg?style=flat-square)](https://travis-ci.org/caffeinated/shinobi)
+[![Source](https://img.shields.io/badge/source-caffeinated/shinobi-blue.svg?style=flat-square)](https://github.com/Playbert/shinobi)
+[![Latest Stable Version](https://poser.pugx.org/caffeinated/shinobi/v/stable?format=flat-square)](https://packagist.org/packages/playbert/shinobi)
+[![Total Downloads](https://img.shields.io/packagist/dt/caffeinated/shinobi.svg?style=flat-square)](https://packagist.org/packages/playbert/shinobi)
 
 A simple and light-weight role-based permissions system for Laravel's Authorization Gate system. Originally developed for [FusionCMS](https://github.com/fusioncms/fusioncms), an open source content management system.
 
