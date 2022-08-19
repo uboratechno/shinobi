@@ -8,16 +8,8 @@
         "email": "playbert.ronaldo@gmail.com"
     }],
     "require": {
-         "php" : "^7.3|^8.0|^8.1",
-        "illuminate/auth": "^7.0|^8.0|^9.0",
-        "illuminate/container": "^7.0|^8.0|^9.0",
-        "illuminate/contracts": "^7.0|^8.0|^9.0",
-        "illuminate/database": "^7.0|^8.0|^9.0"
-    },
-    "require-dev": {
-        "orchestra/testbench": "^5.0|^6.0|^7.0",
-        "phpunit/phpunit": "^9.4",
-        "predis/predis": "^1.1"
+        "php" : "^7.3|^8.0|^8.1",
+        "illuminate/support": "^6.0|^7.0"
     },
     "autoload": {
         "psr-4": {
@@ -41,7 +33,7 @@
     },
     "minimum-stability": "dev",
     "require-dev": {
-        "orchestra/testbench": "^3.7",
-        "doctrine/dbal": "^2.10@dev"
+        "orchestra/testbench": "7.*",
+        "doctrine/dbal": "3.4.*"
     }
 }
