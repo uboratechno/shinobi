@@ -25,9 +25,6 @@ A simple and light-weight role-based permissions system for Laravel's Authorizat
 - Every role can have zero or more permissions.
 - Every role can have one of two special flags, `all-access` and `no-access`
 
-## Documentation
-You will find user friendly and updated documentation on the [Caffeinated website](https://caffeinatedpackages.com/guide/packages/shinobi.html).
-
 ## Installation
 Simply install the package through Composer. From here the package will automatically register its service provider and `Shinobi` facade.
 
