@@ -1,14 +1,14 @@
 <?php
 
-namespace Playbert\Shinobi\Tests;
+namespace Uboratechno\Shinobi\Tests;
 
-use Playbert\Shinobi\Tests\User;
-use Playbert\Shinobi\Models\Role;
-use Playbert\Shinobi\Tests\TestCase;
-use Playbert\Shinobi\Middleware\UserHasRole;
-use Playbert\Shinobi\Middleware\UserHasAnyRole;
+use Uboratechno\Shinobi\Tests\User;
+use Uboratechno\Shinobi\Models\Role;
+use Uboratechno\Shinobi\Tests\TestCase;
+use Uboratechno\Shinobi\Middleware\UserHasRole;
+use Uboratechno\Shinobi\Middleware\UserHasAnyRole;
 use Illuminate\Foundation\Testing\RefreshDatabase;
-use Playbert\Shinobi\Middleware\UserHasAllRoles;
+use Uboratechno\Shinobi\Middleware\UserHasAllRoles;
 use Symfony\Component\HttpKernel\Exception\HttpException;
 
 class MiddlewareTest extends TestCase

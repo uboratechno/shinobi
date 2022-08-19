@@ -1,6 +1,6 @@
 <?php
 
-namespace Playbert\Shinobi\Exceptions;
+namespace Uboratechno\Shinobi\Exceptions;
 
 use Exception;
 

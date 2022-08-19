@@ -1,9 +1,9 @@
 <?php
 
-namespace Playbert\Shinobi\Tests;
+namespace Uboratechno\Shinobi\Tests;
 
 use Illuminate\Support\Facades\Schema;
-use Playbert\Shinobi\Tests\TestCase;
+use Uboratechno\Shinobi\Tests\TestCase;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 
 class GrumpyTest extends TestCase

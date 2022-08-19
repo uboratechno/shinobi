@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Str;
-use Playbert\Shinobi\Models\Permission;
+use Uboratechno\Shinobi\Models\Permission;
 
 $factory->define(Permission::class, function(Faker\Generator $faker) {
     $name = $faker->unique()->sentence(2);

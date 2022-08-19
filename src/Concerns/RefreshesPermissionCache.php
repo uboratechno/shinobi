@@ -1,6 +1,6 @@
 <?php
 
-namespace Playbert\Shinobi\Concerns;
+namespace Uboratechno\Shinobi\Concerns;
 
 trait RefreshesPermissionCache
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Playbert\Shinobi\Tactics;
+namespace Uboratechno\Shinobi\Tactics;
 
 use Illuminate\Support\Arr;
 

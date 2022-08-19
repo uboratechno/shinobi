@@ -1,11 +1,11 @@
 <?php
 
-namespace Playbert\Shinobi\Tests;
+namespace Uboratechno\Shinobi\Tests;
 
 use Illuminate\Auth\Authenticatable;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Foundation\Auth\Access\Authorizable;
-use Playbert\Shinobi\Concerns\HasRolesAndPermissions;
+use Uboratechno\Shinobi\Concerns\HasRolesAndPermissions;
 use Illuminate\Contracts\Auth\Authenticatable as AuthenticatableContract;
 use Illuminate\Contracts\Auth\Access\Authorizable as AuthorizableContract;
 

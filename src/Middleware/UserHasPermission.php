@@ -1,8 +1,8 @@
 <?php
 
-namespace Playbert\Shinobi\Middleware;
+namespace Uboratechno\Shinobi\Middleware;
 
-use Playbert\Shinobi\Models\Role;
+use Uboratechno\Shinobi\Models\Role;
 use Closure;
 use Illuminate\Contracts\Auth\Guard;
 

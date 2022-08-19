@@ -1,6 +1,6 @@
 <?php
 
-namespace Playbert\Shinobi\Middleware;
+namespace Uboratechno\Shinobi\Middleware;
 
 use Closure;
 use Illuminate\Contracts\Auth\Guard;

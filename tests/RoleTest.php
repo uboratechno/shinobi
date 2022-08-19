@@ -1,10 +1,10 @@
 <?php
 
-namespace Playbert\Shinobi\Tests;
+namespace Uboratechno\Shinobi\Tests;
 
-use Playbert\Shinobi\Models\Role;
-use Playbert\Shinobi\Tests\TestCase;
-use Playbert\Shinobi\Models\Permission;
+use Uboratechno\Shinobi\Models\Role;
+use Uboratechno\Shinobi\Tests\TestCase;
+use Uboratechno\Shinobi\Models\Permission;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 
 class RoleTest extends TestCase

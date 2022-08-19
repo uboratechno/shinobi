@@ -1,6 +1,6 @@
 <?php
 
-namespace Playbert\Shinobi\Contracts;
+namespace Uboratechno\Shinobi\Contracts;
 
 use Illuminate\Database\Eloquent\Relations\BelongsToMany;
 

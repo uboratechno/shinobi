@@ -1,10 +1,10 @@
 <?php
 
-namespace Playbert\Shinobi\Concerns;
+namespace Uboratechno\Shinobi\Concerns;
 
 use Illuminate\Support\Arr;
 use Illuminate\Support\Str;
-use Playbert\Shinobi\Contracts\Role;
+use Uboratechno\Shinobi\Contracts\Role;
 use Illuminate\Database\Eloquent\Relations\BelongsToMany;
 
 trait HasRoles
@@ -159,7 +159,7 @@ trait HasRoles
     /**
      * Get the model instance responsible for permissions.
      * 
-     * @return \Playbert\Shinobi\Contracts\Role
+     * @return \Uboratechno\Shinobi\Contracts\Role
      */
     protected function getRoleModel(): Role
     {

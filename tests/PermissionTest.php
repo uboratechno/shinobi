@@ -1,9 +1,9 @@
 <?php
 
-namespace Playbert\Shinobi\Tests;
+namespace Uboratechno\Shinobi\Tests;
 
-use Playbert\Shinobi\Tests\User;
-use Playbert\Shinobi\Exceptions\PermissionNotFoundException;
+use Uboratechno\Shinobi\Tests\User;
+use Uboratechno\Shinobi\Exceptions\PermissionNotFoundException;
 
 class PermissionTest extends TestCase
 {

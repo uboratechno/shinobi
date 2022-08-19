@@ -1,6 +1,6 @@
 <?php
 
-namespace Playbert\Shinobi\Facades;
+namespace Uboratechno\Shinobi\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

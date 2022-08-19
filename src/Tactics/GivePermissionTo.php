@@ -1,10 +1,10 @@
 <?php
 
-namespace Playbert\Shinobi\Tactics;
+namespace Uboratechno\Shinobi\Tactics;
 
 use Illuminate\Support\Arr;
 use Illuminate\Database\Eloquent\Model;
-use Playbert\Shinobi\Facades\Shinobi;
+use Uboratechno\Shinobi\Facades\Shinobi;
 
 class GivePermissionTo
 {

@@ -1,6 +1,6 @@
 <?php
 
-use Playbert\Shinobi\Tests\User;
+use Uboratechno\Shinobi\Tests\User;
 
 $factory->define(User::class, function(Faker\Generator $faker) {
     return [

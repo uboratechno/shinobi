@@ -1,13 +1,13 @@
 <?php
 
-namespace Playbert\Shinobi\Tests;
+namespace Uboratechno\Shinobi\Tests;
 
 use Illuminate\Http\Request;
 use Illuminate\Http\Response;
 use Illuminate\Support\Facades\View;
-use Playbert\Shinobi\Facades\Shinobi;
+use Uboratechno\Shinobi\Facades\Shinobi;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Playbert\Shinobi\ShinobiServiceProvider;
+use Uboratechno\Shinobi\ShinobiServiceProvider;
 
 abstract class TestCase extends Orchestra
 {

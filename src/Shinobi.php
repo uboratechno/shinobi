@@ -1,10 +1,10 @@
 <?php
 
-namespace Playbert\Shinobi;
+namespace Uboratechno\Shinobi;
 
-use Playbert\Shinobi\Tactics\AssignRoleTo;
-use Playbert\Shinobi\Tactics\GivePermissionTo;
-use Playbert\Shinobi\Tactics\RevokePermissionFrom;
+use Uboratechno\Shinobi\Tactics\AssignRoleTo;
+use Uboratechno\Shinobi\Tactics\GivePermissionTo;
+use Uboratechno\Shinobi\Tactics\RevokePermissionFrom;
 
 class Shinobi
 {
@@ -32,7 +32,7 @@ class Shinobi
      * Assign roles to a user.
      * 
      * @param  string|array  $roles
-     * @return \Playbert\Shinobi\Tactic\AssignRoleTo
+     * @return \Uboratechno\Shinobi\Tactic\AssignRoleTo
      */
     public function assign($roles): AssignRoleTo
     {
@@ -43,7 +43,7 @@ class Shinobi
      * Give permissions to a user or role
      * 
      * @param  string|array  $permissions
-     * @return \Playbert\Shinobi\Tactic\GivePermissionTo
+     * @return \Uboratechno\Shinobi\Tactic\GivePermissionTo
      */
     public function give($permissions): GivePermissionTo
     {
@@ -54,7 +54,7 @@ class Shinobi
      * Revoke permissions from a user or role
      * 
      * @param  string|array  $permissions
-     * @return \Playbert\Shinobi\Tactic\RevokePermissionFrom
+     * @return \Uboratechno\Shinobi\Tactic\RevokePermissionFrom
      */
     public function revoke($permissions): RevokePermissionFrom
     {

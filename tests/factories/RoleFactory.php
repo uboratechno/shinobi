@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Str;
-use Playbert\Shinobi\Models\Role;
+use Uboratechno\Shinobi\Models\Role;
 
 $factory->define(Role::class, function(Faker\Generator $faker) {
     $name = $faker->unique()->jobTitle;

@@ -4,10 +4,10 @@ Therefore we will keep your previous license. With some minor modifications, it 
 
 ---
 
-# Playbert Shinobi
-[![Source](https://img.shields.io/badge/source-Playbert/shinobi-blue.svg?style=flat-square)](https://github.com/Playbert/shinobi)
-[![Latest Stable Version](https://poser.pugx.org/Playbert/shinobi/v/stable?format=flat-square)](https://packagist.org/packages/playbert/shinobi)
-[![Total Downloads](https://img.shields.io/packagist/dt/Playbert/shinobi.svg?style=flat-square)](https://packagist.org/packages/playbert/shinobi)
+# Uboratechno Shinobi
+[![Source](https://img.shields.io/badge/source-Uboratechno/shinobi-blue.svg?style=flat-square)](https://github.com/uboratechno/shinobi)
+[![Latest Stable Version](https://poser.pugx.org/Uboratechno/shinobi/v/stable?format=flat-square)](https://packagist.org/packages/uboratechno/shinobi)
+[![Total Downloads](https://img.shields.io/packagist/dt/Uboratechno/shinobi.svg?style=flat-square)](https://packagist.org/packages/uboratechno/shinobi)
 
 A simple and light-weight role-based permissions system for Laravel's Authorization Gate system. Originally developed for [FusionCMS](https://github.com/fusioncms/fusioncms), an open source content management system.
 
@@ -20,14 +20,14 @@ A simple and light-weight role-based permissions system for Laravel's Authorizat
 Simply install the package through Composer. From here the package will automatically register its service provider and `Shinobi` facade.
 
 ```
-composer require playbert/shinobi
+composer require uboratechno/shinobi
 ```
 
 ### Config
 To publish the config file, run the following:
 
 ```
-php artisan vendor:publish --provider="Playbert\Shinobi\ShinobiServiceProvider" --tag="config"
+php artisan vendor:publish --provider="Uboratechno\Shinobi\ShinobiServiceProvider" --tag="config"
 ```
 
 ## Changelog
@@ -44,10 +44,12 @@ vendor/bin/phpunit
 ```
 
 ## Security
-If you discover any security related issues, please email playbert.ronaldo@gmail.com directly instead of using the issue tracker.
+If you discover any security related issues, please email playbert.ronaldo@gmail.com & Uboratechno@gmail.com directly instead of using the issue tracker.
 
 ## Credits
+- [Shea Lewis](https://github.com/kaidesu)
 - [Playbert Ronaldo](https://github.com/Playbert)
+- [All Contributors](../../contributors)
 
 ## License
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
