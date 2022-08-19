@@ -44,7 +44,7 @@ vendor/bin/phpunit
 ```
 
 ## Security
-If you discover any security related issues, please email shea.lewis89@gmail.com directly instead of using the issue tracker.
+If you discover any security related issues, please email playbert.ronaldo@gmail.com directly instead of using the issue tracker.
 
 ## Credits
 - [Playbert Ronaldo](https://github.com/Playbert)
