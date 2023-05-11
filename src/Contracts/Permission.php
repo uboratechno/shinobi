@@ -12,7 +12,4 @@ interface Permission
      * @return Model
      */
     public function roles(): BelongsToMany;
-
-    public function hasRoles(): bool;
-    public function hasAllRoles(): bool;
 }
