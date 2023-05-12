@@ -1,6 +1,6 @@
 # This package is a clone of "caffeinated/shinobi".
 
-Therefore we will keep your previous license. With some minor modifications, it works from laravel 6.0 onwards, for laravel less than version 6 use the original owner's package [![Source](https://img.shields.io/badge/source-Caffeinated/shinobi-blue.svg?style=flat-square)](https://github.com/caffeinated/shinobi)
+Therefore we will keep your previous license. With some minor modifications, it works from laravel 6.0 onwards, not yet compatible with laravel 9, for laravel less than version 6 use the original owner's package [![Source](https://img.shields.io/badge/source-Caffeinated/shinobi-blue.svg?style=flat-square)](https://github.com/caffeinated/shinobi)
 
 ---
 
