@@ -1,16 +1,7 @@
 {
     "name": "uboratechno/shinobi",
-    "description": "Roles and Permissions for laravel 6 - 10",
-    "keywords": [
-        "auth",
-        "laravel",
-        "permission",
-        "permissions",
-        "roles",
-        "acl",
-        "rbac",
-        "security"
-    ],
+    "description": "Roles and Permissions for laravel 6 - 8.74",
+    "keywords": ["roles", "permissions", "auth", "laravel"],
     "license": "MIT",
     "authors": [{
         "name": "Playbert Ronaldo",
@@ -42,7 +33,7 @@
     },
     "minimum-stability": "dev",
     "require-dev": {
-        "orchestra/testbench": "^6.0|^7.0|^8.0",
-        "doctrine/dbal": "3.6.2"
+        "orchestra/testbench": "7.*",
+        "doctrine/dbal": "3.4.*"
     }
 }
