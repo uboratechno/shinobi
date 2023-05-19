@@ -20,7 +20,7 @@ A simple and light-weight role-based permissions system for Laravel's Authorizat
 Simply install the package through Composer. From here the package will automatically register its service provider and `Shinobi` facade.
 
 ```
-composer require uboratechno/shinobi dev-test
+composer require uboratechno/shinobi
 ```
 
 ### Config
